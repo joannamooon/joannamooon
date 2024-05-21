@@ -1,4 +1,4 @@
-###Joanna Moon
+##Joanna Moon
 
 👋 Hi, I’m Joanna, I'm studying statistics and computer science at University of Waterloo. 
 👀 I’m interested in resarching applied machine learning, human-computer interaction, and creating tools that can empower the world using AI. 
